@@ -1,0 +1,7 @@
+.container text-center my-3{
+	background-image: url("C:\Users\bande\Downloads\bg.jpeg"); /* Replace 'path/to/your/image.jpg' with the path to your image file */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background image */
+    height: 100vh; /* Set the height of the homepage content area to viewport height */
+    
+}
